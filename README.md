@@ -1,4 +1,5 @@
 # firstrepo
 practice repository
 <br>
-Author-Shree Harsha BK
+Author-ShreeHarsha BK
+email-shreeharshabanakar@gamil.com
